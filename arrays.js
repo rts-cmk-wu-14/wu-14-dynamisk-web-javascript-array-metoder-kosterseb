@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // Tilføj katten "Sniffles" til catsArray.
     // Udskriv arrayet i konsollen.
     // console.log("Opgave 2", ...)
-    
+    console.log("opgave 2:", catsArray.push("Sniffles"), catsArray)
     
 
     // Opgave 3a
