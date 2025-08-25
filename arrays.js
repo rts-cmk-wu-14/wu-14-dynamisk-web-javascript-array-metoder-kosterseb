@@ -61,6 +61,7 @@ document.addEventListener("DOMContentLoaded", function () {
     //     Opgave 7a
     // Find ud af hvilket index "Mango" har i fruitsArray.
     // Udskriv indexet i konsollen.
+    console.log("opgave 7a:", fruitsArray.indexOf("Mango"));
     
 
     // Opgave 7b
