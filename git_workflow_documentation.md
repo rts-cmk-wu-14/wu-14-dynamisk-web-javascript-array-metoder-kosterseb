@@ -40,11 +40,14 @@ git push origin løste_opgaver
 Commits made:  
 - `opgave 1 løst`  
 - `opgave 2 løst`  
-- `opgave 3 løst`  
-- `opgave 4 løst`  
+- `opgave 3a løst`
+- `opgave 3b løst`  
+- `opgave 4a løst`
+- `opgave 4b løst`  
 - `opgave 5 løst`  
 - `opgave 6 løst`  
-- `opgave 7 løst`  
+- `opgave 7a løst`
+- `opgave 7b løst`  
 - `opgave 8 løst`  
 
 ---
