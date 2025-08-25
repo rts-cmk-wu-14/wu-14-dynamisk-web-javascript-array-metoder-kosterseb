@@ -46,6 +46,8 @@ document.addEventListener("DOMContentLoaded", function () {
     // Med udgangspunkt i numbersArray, skal du oprette et nyt array, som indeholder alle tallene i arrayet ganget med 3.
     // Udskriv det nye array i konsollen:
     // console.log("Opgave 5", ...)
+    let result2 = numbersArray.map((elm) => elm * 3);
+    console.log("opgave 5:", result2);
     
 
     //     Opgave 6
