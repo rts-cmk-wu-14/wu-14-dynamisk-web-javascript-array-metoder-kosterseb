@@ -55,6 +55,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // (Sådan her: BarneyMollyBaxter...)
     // Udskriv strengen konsollen:
     // console.log("Opgave 6", ...)
+    console.log("opgave 6:", dogsArray.join(''));
     
 
     //     Opgave 7a
